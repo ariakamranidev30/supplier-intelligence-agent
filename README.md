@@ -1,5 +1,7 @@
 # Supplier Intelligence Agent 
 
+![Agent Demo](demo.gif)
+
 A full-stack AI agent designed to retrieve and summarize supplier risk and compliance data using the Model Context Protocol (MCP).
 
 ## Architecture
